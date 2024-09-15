@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I'm a Computer Science student and a `Machine Learning` enthusiast
-- 💻 I'm currently working as a Backend Engineer intern at `Thndr`
+- 💻 I'm currently working as a Backend Intern at `Thndr`
 - 🔭 I have `2+ year` of experience working as a Software Engineer
 - 💁‍♂️ I also worked as a `Teacher Assistant` at The American University in Cairo
 - 🌱 I'm currently improving myself in `Competitive Programming` and `Machine Learning`
