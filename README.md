@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shahd Elmahallawy</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A Computer Science Phd student at UCR</h3>
 <div align="center">
     <img src="Github1.png" height="200" />
 </div>
 
 <div align="center">
     <a href="https://www.linkedin.com/in//shahd-elmahallawy-10a9b0215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:shahd.kh@aucegypt.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:selma008@ucr.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 -->
 <h1>About Me 📌</h1>
 
-- 👋 I'm a Computer Science student and a `Machine Learning` enthusiast
-- 💻 I worked as a Backend Intern at two Fintech `Paymob` & `Thndr`
-- 🔭 I have `2+ year` of experience working as a Software Engineer
-- 💁‍♂️ I also worked as a `Teacher Assistant` at The American University in Cairo
-- 🌱 I'm currently improving myself in `Competitive Programming` and `Machine Learning`
+- 👋 I'm a Computer Science phd student and interested in `Generative AI` and `Big Data`
+- 🔭 I’m currently working on exploring LLMs' abilities in spatial data.
+- 💻 I worked as a GenAI engineer at `EnergyAI Berlin`, and a backend intern at two Fintechs, `Paymob` & `Thndr`
+- 💁‍♂️ I also worked as a `Teacher Assistant` at The American University in Cairo, and a `Math Tutor` at Portland State University
 - ⚡ Fun fact: I love to run 🏃🏽‍♀️
 
 <br />
